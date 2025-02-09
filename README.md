@@ -1,8 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```md
+# Event Management Frontend 🎭
 
-Currently, two official plugins are available:
+This is the **frontend** of the Event Management Platform, built using **React.js** and **Tailwind CSS**.  
+Users can **browse, create, register, and manage events** with a beautiful UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- **User Authentication (JWT)**
+- **Event Management (Create, Edit, Delete)**
+- **Event Registration & Unregistration**
+- **Live Updates using Socket.io**
+- **Mobile Responsive UI**
+
+---
+
+## 🔧 Installation & Setup
+
+### **1️⃣ Clone the repository**
+```sh
+git clone https://github.com/bindal2409/event-management-frontend.git
+
+cd frontend
